@@ -7,14 +7,18 @@
         <mxCell id="KoKueHnQAT1GzJUWjer0-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MES网页&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1468" y="-952" width="188" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KoKueHnQAT1GzJUWjer0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KoKueHnQAT1GzJUWjer0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1374" y="-844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KoKueHnQAT1GzJUWjer0-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KoKueHnQAT1GzJUWjer0-5">
+          <mxGeometry x="1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KoKueHnQAT1GzJUWjer0-3" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-1505" y="-863" width="31" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="KoKueHnQAT1GzJUWjer0-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1403" y="-780" as="sourcePoint" />
-            <mxPoint x="-1353" y="-830" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
